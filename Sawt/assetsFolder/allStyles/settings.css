@@ -86,7 +86,7 @@ body {
     background-color: white;
 }
 
-/* registration box */
+/* settings box */
 
 .settings-box {
     width: 50%;
@@ -176,4 +176,5 @@ body {
     border-top-left-radius: 50% 100%;
     border-bottom-left-radius: 50% 100%;
     position: relative;
+
 }

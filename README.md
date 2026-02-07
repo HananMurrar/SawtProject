@@ -24,18 +24,18 @@
 │   ├── videoSubsystem.py
 │   ├── mergeSubsystem.py
 │   ├── speechToText.py
-│   ├── app.py # Main app to run system
+│   ├── app.py                       # Main app to run system
 │   ├── ffmpeg.exe
-│   ├── key.json # Google API credentials
-│   └── blazeFaceShortRange.tflite # Lightweight face detection model
+│   ├── key.json                     # Google API credentials
+│   └── blazeFaceShortRange.tflite   # Lightweight face detection model
 ├── 📁 assetsFolder
 ├── 📁 pagesEnglish
 ├── 📁 pagesArabic
-├── mongosh.exe # MongoDB shel
+├── mongosh.exe                      # MongoDB shel
 ```
 
 #### Sawt demo 
-[Watch the demo video (download)](https://github.com/HananMurrar/Sawt/raw/main/Sawt/Demo.mov)
+- [Watch the demo video (download)](https://github.com/HananMurrar/Sawt/raw/main/Sawt/Demo.mov)
 
 #### Sawt team
 - Ahmed Naser

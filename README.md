@@ -18,7 +18,8 @@
 - After the podcast file is uploaded, the system checks if its a video, it extracts the audio, then audio is converted into text using a speech to text API
 
 ##### 🧩 Modelling architecture:
-- 🎧 Audio subsystem: once the transcript is generated, this subsystem is responsible for performing detailed audio and text analysis to identify meaningful segments
+###### 🎧 Audio subsystem:
+- Once the transcript is generated, this subsystem is responsible for performing detailed audio and text analysis to identify meaningful segments
 - 🎥 Video subsystem: after the audio is processed, this subsystem works on analysing the visual content of video podcast, this part of the system helps detect important visual moments
 - 🔗 Merge subsystem: after the audio and video parts are processed, this subsystem combines their results to create the final highlight labeled clips for video podcasts  
 

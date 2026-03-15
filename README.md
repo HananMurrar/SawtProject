@@ -15,7 +15,7 @@
 - Users upload audio or video files through a web page, these uploaded files serve as the raw data that the system processes and analyzes
 
 ##### 📋 Transcription:
-- After the podcast file is uploaded, the system checks if its a video, it extracts the audio, then audio is converted into text using a speech to text API
+- After the podcast file is uploaded, the system checks if its a video, it extracts the audio, then audio is converted into text using a `speech to text API`
 
 ##### 🧩 Modelling architecture:
 - 🎧 Audio subsystem: once the transcript is generated, this subsystem is responsible for performing detailed audio and text analysis to identify meaningful segments
